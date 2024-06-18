@@ -1,0 +1,781 @@
+{
+    "garden": {
+      "seeds": [
+        {
+          "id": 1,
+          "name": "Tomato Seeds",
+          "planting_instructions": "Plant seeds 0.5 inches deep in soil. Keep moist until germination.",
+          "quantity": "50 seeds per packet",
+          "price": 299.99,
+          "image_url": "https://m.media-amazon.com/images/I/61D9db3QKCL._AC_SX679_.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Rose Seeds",
+          "planting_instructions": "Plant seeds 0.25 inches deep in soil. Keep in a warm location until sprouting.",
+          "quantity": "20 seeds per packet",
+          "price": 399.99,
+          "image_url": "https://m.media-amazon.com/images/I/71YjIYsybhL._AC_SL1500_.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Cucumber Seeds",
+          "planting_instructions": "Plant seeds 1 inch deep in soil. Keep moist until germination.",
+          "quantity": "40 seeds per packet",
+          "price": 249.99,
+          "image_url": "https://m.media-amazon.com/images/I/81OZeNGY5VL._AC_SL1500_.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Carrot Seeds",
+          "planting_instructions": "Plant seeds 0.25 inches deep in soil. Keep moist until germination.",
+          "quantity": "100 seeds per packet",
+          "price": 199.99,
+          "image_url": "https://m.media-amazon.com/images/I/71XKumeR-nL._AC_SL1000_.jpg"
+        },
+        {
+          "id": 5,
+          "name": "Lettuce Seeds",
+          "planting_instructions": "Plant seeds 0.25 inches deep in soil. Keep moist until germination.",
+          "quantity": "200 seeds per packet",
+          "price": 149.99,
+          "image_url": "https://m.media-amazon.com/images/I/81t27Jd8UmL._AC_SL1500_.jpg"
+        },
+        {
+          "id": 6,
+          "name": "Pepper Seeds",
+          "planting_instructions": "Plant seeds 0.5 inches deep in soil. Keep moist until germination.",
+          "quantity": "50 seeds per packet",
+          "price": 299.99,
+          "image_url": "https://m.media-amazon.com/images/I/81GjnBhn-0L._AC_SL1500_.jpg"
+        },
+        {
+          "id": 7,
+          "name": "Basil Seeds",
+          "planting_instructions": "Plant seeds 0.25 inches deep in soil. Keep moist until germination.",
+          "quantity": "150 seeds per packet",
+          "price": 129.99,
+          "image_url": "https://example.com/images/basil_seeds.jpg"
+        },
+        {
+          "id": 8,
+          "name": "Spinach Seeds",
+          "planting_instructions": "Plant seeds 0.5 inches deep in soil. Keep moist until germination.",
+          "quantity": "100 seeds per packet",
+          "price": 199.99,
+          "image_url": "https://example.com/images/spinach_seeds.jpg"
+        },
+        {
+          "id": 9,
+          "name": "Sunflower Seeds",
+          "planting_instructions": "Plant seeds 1 inch deep in soil. Keep moist until germination.",
+          "quantity": "30 seeds per packet",
+          "price": 249.99,
+          "image_url": "https://example.com/images/sunflower_seeds.jpg"
+        },
+        {
+          "id": 10,
+          "name": "Pumpkin Seeds",
+          "planting_instructions": "Plant seeds 1 inch deep in soil. Keep moist until germination.",
+          "quantity": "20 seeds per packet",
+          "price": 349.99,
+          "image_url": "https://example.com/images/pumpkin_seeds.jpg"
+        },
+        {
+          "id": 11,
+          "name": "Watermelon Seeds",
+          "planting_instructions": "Plant seeds 1 inch deep in soil. Keep moist until germination.",
+          "quantity": "30 seeds per packet",
+          "price": 299.99,
+          "image_url": "https://example.com/images/watermelon_seeds.jpg"
+        },
+        {
+          "id": 12,
+          "name": "Radish Seeds",
+          "planting_instructions": "Plant seeds 0.5 inches deep in soil. Keep moist until germination.",
+          "quantity": "100 seeds per packet",
+          "price": 149.99,
+          "image_url": "https://example.com/images/radish_seeds.jpg"
+        },
+        {
+          "id": 13,
+          "name": "Corn Seeds",
+          "planting_instructions": "Plant seeds 1 inch deep in soil. Keep moist until germination.",
+          "quantity": "50 seeds per packet",
+          "price": 299.99,
+          "image_url": "https://example.com/images/corn_seeds.jpg"
+        },
+        {
+          "id": 14,
+          "name": "Pea Seeds",
+          "planting_instructions": "Plant seeds 1 inch deep in soil. Keep moist until germination.",
+          "quantity": "75 seeds per packet",
+          "price": 199.99,
+          "image_url": "https://example.com/images/pea_seeds.jpg"
+        },
+        {
+          "id": 15,
+          "name": "Onion Seeds",
+          "planting_instructions": "Plant seeds 0.25 inches deep in soil. Keep moist until germination.",
+          "quantity": "100 seeds per packet",
+          "price": 199.99,
+          "image_url": "https://example.com/images/onion_seeds.jpg"
+        },
+        {
+          "id": 16,
+          "name": "Garlic Seeds",
+          "planting_instructions": "Plant cloves 2 inches deep in soil. Keep moist until germination.",
+          "quantity": "20 cloves per packet",
+          "price": 249.99,
+          "image_url": "https://example.com/images/garlic_seeds.jpg"
+        },
+        {
+          "id": 17,
+          "name": "Zucchini Seeds",
+          "planting_instructions": "Plant seeds 1 inch deep in soil. Keep moist until germination.",
+          "quantity": "25 seeds per packet",
+          "price": 249.99,
+          "image_url": "https://example.com/images/zucchini_seeds.jpg"
+        },
+        {
+          "id": 18,
+          "name": "Cabbage Seeds",
+          "planting_instructions": "Plant seeds 0.25 inches deep in soil. Keep moist until germination.",
+          "quantity": "50 seeds per packet",
+          "price": 199.99,
+          "image_url": "https://example.com/images/cabbage_seeds.jpg"
+        },
+        {
+          "id": 19,
+          "name": "Broccoli Seeds",
+          "planting_instructions": "Plant seeds 0.5 inches deep in soil. Keep moist until germination.",
+          "quantity": "50 seeds per packet",
+          "price": 299.99,
+          "image_url": "https://example.com/images/broccoli_seeds.jpg"
+        },
+        {
+          "id": 20,
+          "name": "Cauliflower Seeds",
+          "planting_instructions": "Plant seeds 0.5 inches deep in soil. Keep moist until germination.",
+          "quantity": "50 seeds per packet",
+          "price": 299.99,
+          "image_url": "https://example.com/images/cauliflower_seeds.jpg"
+        },
+        {
+          "id": 21,
+          "name": "Beet Seeds",
+          "planting_instructions": "Plant seeds 0.5 inches deep in soil. Keep moist until germination.",
+          "quantity": "50 seeds per packet",
+          "price": 149.99,
+          "image_url": "https://example.com/images/beet_seeds.jpg"
+        },
+        {
+          "id": 22,
+          "name": "Parsnip Seeds",
+          "planting_instructions": "Plant seeds 0.5 inches deep in soil. Keep moist until germination.",
+          "quantity": "50 seeds per packet",
+          "price": 149.99,
+          "image_url": "https://example.com/images/parsnip_seeds.jpg"
+        },
+        {
+          "id": 23,
+          "name": "Turnip Seeds",
+          "planting_instructions": "Plant seeds 0.5 inches deep in soil. Keep moist until germination.",
+          "quantity": "50 seeds per packet",
+          "price": 149.99,
+          "image_url": "https://example.com/images/turnip_seeds.jpg"
+        },
+        {
+          "id": 24,
+          "name": "Pumpkin Seeds",
+          "planting_instructions": "Plant seeds 1 inch deep in soil. Keep moist until germination.",
+          "quantity": "20 seeds per packet",
+          "price": 299.99,
+          "image_url": "https://example.com/images/pumpkin_seeds.jpg"
+        },
+        {
+          "id": 25,
+          "name": "Chili Seeds",
+          "planting_instructions": "Plant seeds 0.5 inches deep in soil. Keep moist until germination.",
+          "quantity": "50 seeds per packet",
+          "price": 299.99,
+          "image_url": "https://example.com/images/chili_seeds.jpg"
+        },
+        {
+          "id": 26,
+          "name": "Bell Pepper Seeds",
+          "planting_instructions": "Plant seeds 0.5 inches deep in soil. Keep moist until germination.",
+          "quantity": "50 seeds per packet",
+          "price": 299.99,
+          "image_url": "https://example.com/images/bell_pepper_seeds.jpg"
+        },
+        {
+          "id": 27,
+          "name": "Celery Seeds",
+          "planting_instructions": "Plant seeds 0.25 inches deep in soil. Keep moist until germination.",
+          "quantity": "100 seeds per packet",
+          "price": 199.99,
+          "image_url": "https://example.com/images/celery_seeds.jpg"
+        },
+        {
+          "id": 28,
+          "name": "Parsley Seeds",
+          "planting_instructions": "Plant seeds 0.25 inches deep in soil. Keep moist until germination.",
+          "quantity": "200 seeds per packet",
+          "price": 149.99,
+          "image_url": "https://example.com/images/parsley_seeds.jpg"
+        },
+        {
+          "id": 29,
+          "name": "Dill Seeds",
+          "planting_instructions": "Plant seeds 0.25 inches deep in soil. Keep moist until germination.",
+          "quantity": "200 seeds per packet",
+          "price": 149.99,
+          "image_url": "https://example.com/images/dill_seeds.jpg"
+        },
+        {
+          "id": 30,
+          "name": "Coriander Seeds",
+          "planting_instructions": "Plant seeds 0.25 inches deep in soil. Keep moist until germination.",
+          "quantity": "150 seeds per packet",
+          "price": 149.99,
+          "image_url": "https://example.com/images/coriander_seeds.jpg"
+        }
+      ],
+    
+      "power_tools": [
+            {
+              "id": 1,
+              "name": "Electric Hedge Trimmer",
+              "type": "Trimming",
+              "description": "Used for trimming hedges and bushes.",
+              "power_source": "Electric",
+              "safety_instructions": "Wear safety glasses and gloves. Keep away from children.",
+              "price": 3999.99,
+              "image_url": "https://m.media-amazon.com/images/I/61hNiV4AECL._AC_SL1500_.jpg"
+            },
+            {
+              "id": 2,
+              "name": "Electric Lawn Mower",
+              "type": "Mowing",
+              "description": "Used for cutting grass.",
+              "power_source": "Electric",
+              "safety_instructions": "Wear safety boots and ear protection. Keep away from children.",
+              "price": 15999.99,
+              "image_url": "https://m.media-amazon.com/images/I/71-U+9qi1VL._AC_SX679_.jpg"
+            },
+            {
+              "id": 3,
+              "name": "Electric Chainsaw",
+              "type": "Cutting",
+              "description": "Used for cutting trees and branches.",
+              "power_source": "Electric",
+              "safety_instructions": "Wear safety goggles, gloves, and ear protection. Keep away from children.",
+              "price": 5499.99,
+              "image_url": "https://m.media-amazon.com/images/I/51LAy85XDbS._AC_SL1000_.jpg"
+            },
+            {
+              "id": 4,
+              "name": "Electric String Trimmer",
+              "type": "Trimming",
+              "description": "Used for trimming grass and weeds.",
+              "power_source": "Electric",
+              "safety_instructions": "Wear safety goggles and gloves. Keep away from children.",
+              "price": 2999.99,
+              "image_url": "https://m.media-amazon.com/images/I/51NJEhSAjnL._AC_SL1000_.jpg"
+            },
+            {
+              "id": 5,
+              "name": "Electric Leaf Blower",
+              "type": "Cleaning",
+              "description": "Used for blowing leaves and debris.",
+              "power_source": "Electric",
+              "safety_instructions": "Wear safety goggles and gloves. Keep away from children.",
+              "price": 3499.99,
+              "image_url": "https://m.media-amazon.com/images/I/61U6FtBuz2S._AC_SL1500_.jpg"
+            },
+            {
+              "id": 6,
+              "name": "Electric Cultivator",
+              "type": "Digging",
+              "description": "Used for loosening soil and preparing planting beds.",
+              "power_source": "Electric",
+              "safety_instructions": "Wear safety goggles and gloves. Keep away from children.",
+              "price": 4499.99,
+              "image_url": "https://m.media-amazon.com/images/I/61OojjfsfoL._AC_SL1280_.jpg"
+            },
+            {
+              "id": 7,
+              "name": "Electric Pole Saw",
+              "type": "Cutting",
+              "description": "Used for cutting tree branches at heights.",
+              "power_source": "Electric",
+              "safety_instructions": "Wear safety goggles, gloves, and ear protection. Keep away from children.",
+              "price": 4999.99,
+              "image_url": "https://example.com/images/electric_pole_saw.jpg"
+            },
+            {
+              "id": 8,
+              "name": "Electric Pressure Washer",
+              "type": "Cleaning",
+              "description": "Used for cleaning driveways, decks, and outdoor surfaces.",
+              "power_source": "Electric",
+              "safety_instructions": "Wear safety goggles and gloves. Keep away from children.",
+              "price": 6999.99,
+              "image_url": "https://example.com/images/electric_pressure_washer.jpg"
+            },
+            {
+              "id": 9,
+              "name": "Electric Tiller",
+              "type": "Digging",
+              "description": "Used for tilling soil and preparing garden beds.",
+              "power_source": "Electric",
+              "safety_instructions": "Wear safety goggles and gloves. Keep away from children.",
+              "price": 4999.99,
+              "image_url": "https://example.com/images/electric_tiller.jpg"
+            },
+            {
+              "id": 10,
+              "name": "Electric Chainsaw Sharpener",
+              "type": "Sharpening",
+              "description": "Used for sharpening chainsaw chains.",
+              "power_source": "Electric",
+              "safety_instructions": "Wear safety goggles and gloves. Keep away from children.",
+              "price": 999.99,
+              "image_url": "https://example.com/images/electric_chainsaw_sharpener.jpg"
+            },
+            {
+              "id": 11,
+              "name": "Electric Pruning Saw",
+              "type": "Cutting",
+              "description": "Used for pruning trees and shrubs.",
+              "power_source": "Electric",
+              "safety_instructions": "Wear safety goggles, gloves, and ear protection. Keep away from children.",
+              "price": 3499.99,
+              "image_url": "https://example.com/images/electric_pruning_saw.jpg"
+            },
+            {
+              "id": 12,
+              "name": "Electric Hedge Shears",
+              "type": "Trimming",
+              "description": "Used for shaping and trimming hedges.",
+              "power_source": "Electric",
+              "safety_instructions": "Wear safety goggles and gloves. Keep away from children.",
+              "price": 3999.99,
+              "image_url": "https://example.com/images/electric_hedge_shears.jpg"
+            },
+            {
+              "id": 13,
+              "name": "Electric Weed Trimmer",
+              "type": "Trimming",
+              "description": "Used for trimming weeds and tall grass.",
+              "power_source": "Electric",
+              "safety_instructions": "Wear safety goggles and gloves. Keep away from children.",
+              "price": 2499.99,
+              "image_url": "https://example.com/images/electric_weed_trimmer.jpg"
+            },
+            {
+              "id": 14,
+              "name": "Electric Snow Blower",
+              "type": "Cleaning",
+              "description": "Used for clearing snow from driveways and pathways.",
+              "power_source": "Electric",
+              "safety_instructions": "Wear warm clothing, safety goggles, and gloves. Keep away from children.",
+              "price": 7999.99,
+              "image_url": "https://example.com/images/electric_snow_blower.jpg"
+            },
+            {
+                "id": 15,
+                "name": "Electric Leaf Vacuum",
+                "type": "Cleaning",
+                "description": "Used for vacuuming leaves and debris.",
+                "power_source": "Electric",
+                "safety_instructions": "Wear safety goggles and gloves. Keep away from children.",
+                "price": 3999.99,
+                "image_url": "https://example.com/images/electric_leaf_vacuum.jpg"
+              },
+              {
+                "id": 16,
+                "name": "Electric Lawn Edger",
+                "type": "Edging",
+                "description": "Used for creating clean edges along sidewalks and driveways.",
+                "power_source": "Electric",
+                "safety_instructions": "Wear safety goggles and gloves. Keep away from children.",
+                "price": 2999.99,
+                "image_url": "https://example.com/images/electric_lawn_edger.jpg"
+              },
+              {
+                "id": 17,
+                "name": "Electric Garden Chipper",
+                "type": "Chipping",
+                "description": "Used for chipping branches and organic waste.",
+                "power_source": "Electric",
+                "safety_instructions": "Wear safety goggles and gloves. Keep away from children.",
+                "price": 7999.99,
+                "image_url": "https://example.com/images/electric_garden_chipper.jpg"
+              },
+              {
+                "id": 18,
+                "name": "Electric Lawn Dethatcher",
+                "type": "Dethatching",
+                "description": "Used for removing thatch and moss from lawns.",
+                "power_source": "Electric",
+                "safety_instructions": "Wear safety goggles and gloves. Keep away from children.",
+                "price": 4999.99,
+                "image_url": "https://example.com/images/electric_lawn_dethatcher.jpg"
+              },
+              {
+                "id": 19,
+                "name": "Electric Pole Hedge Trimmer",
+                "type": "Trimming",
+                "description": "Used for trimming tall hedges and bushes.",
+                "power_source": "Electric",
+                "safety_instructions": "Wear safety goggles and gloves. Keep away from children.",
+                "price": 5999.99,
+                "image_url": "https://example.com/images/electric_pole_hedge_trimmer.jpg"
+              },
+              {
+                "id": 20,
+                "name": "Electric Scarifier",
+                "type": "Scarifying",
+                "description": "Used for scarifying and aerating lawns.",
+                "power_source": "Electric",
+                "safety_instructions": "Wear safety goggles and gloves. Keep away from children.",
+                "price": 6999.99,
+                "image_url": "https://example.com/images/electric_scarifier.jpg"
+              },
+              {
+                "id": 21,
+                "name": "Electric Pole Pruner",
+                "type": "Pruning",
+                "description": "Used for pruning trees and branches at heights.",
+                "power_source": "Electric",
+                "safety_instructions": "Wear safety goggles, gloves, and ear protection. Keep away from children.",
+                "price": 5499.99,
+                "image_url": "https://example.com/images/electric_pole_pruner.jpg"
+              },
+              {
+                "id": 22,
+                "name": "Electric Cultivator Tiller",
+                "type": "Digging",
+                "description": "Used for tilling and cultivating soil.",
+                "power_source": "Electric",
+                "safety_instructions": "Wear safety goggles and gloves. Keep away from children.",
+                "price": 5499.99,
+                "image_url": "https://example.com/images/electric_cultivator_tiller.jpg"
+              },
+              {
+                "id": 23,
+                "name": "Electric Rototiller",
+                "type": "Digging",
+                "description": "Used for tilling large areas of soil.",
+                "power_source": "Electric",
+                "safety_instructions": "Wear safety goggles and gloves. Keep away from children.",
+                "price": 8999.99,
+                "image_url": "https://example.com/images/electric_rototiller.jpg"
+              },
+              {
+                "id": 24,
+                "name": "Electric Lawn Aerator",
+                "type": "Aerating",
+                "description": "Used for aerating compacted soil in lawns.",
+                "power_source": "Electric",
+                "safety_instructions": "Wear safety goggles and gloves. Keep away from children.",
+                "price": 7999.99,
+                "image_url": "https://example.com/images/electric_lawn_aerator.jpg"
+              },
+              {
+                "id": 25,
+                "name": "Electric Chainsaw Sharpener",
+                "type": "Sharpening",
+                "description": "Used for sharpening chainsaw chains.",
+                "power_source": "Electric",
+                "safety_instructions": "Wear safety goggles and gloves. Keep away from children.",
+                "price": 1499.99,
+                "image_url": "https://example.com/images/electric_chainsaw_sharpener.jpg"
+              },
+              {
+                "id": 26,
+                "name": "Electric Hedge Trimmer Cordless",
+                "type": "Trimming",
+                "description": "Used for trimming hedges and bushes.",
+                "power_source": "Battery",
+                "safety_instructions": "Wear safety glasses and gloves. Keep away from children.",
+                "price": 4999.99,
+                "image_url": "https://example.com/images/electric_hedge_trimmer_cordless.jpg"
+              },
+              {
+                "id": 27,
+                "name": "Electric Grass Shears",
+                "type": "Trimming",
+                "description": "Used for trimming grass and edges.",
+                "power_source": "Battery",
+                "safety_instructions": "Wear safety glasses and gloves. Keep away from children.",
+                "price": 1999.99,
+                "image_url": "https://example.com/images/electric_grass_shears.jpg"
+              },
+              {
+                "id": 28,
+                "name": "Electric Lawn Trimmer",
+                "type": "Trimming",
+                "description": "Used for trimming grass and edges.",
+                "power_source": "Battery",
+                "safety_instructions": "Wear safety glasses and gloves. Keep away from children.",
+                "price": 2499.99,
+                "image_url": "https://example.com/images/electric_lawn_trimmer.jpg"
+              },
+              {
+                "id": 29,
+                "name": "Electric Chainsaw Cordless",
+                "type": "Cutting",
+                "description": "Used for cutting trees and branches.",
+                "power_source": "Battery",
+                "safety_instructions": "Wear safety glasses and gloves. Keep away from children.",
+                "price": 5499.99,
+                "image_url": "https://example.com/images"
+              }        
+            ],
+            "hand_tools": [
+              {
+                "id": 1,
+                "name": "Shovel",
+                "type": "Digging",
+                "description": "Used for digging and moving soil.",
+                "price": 1199.99,
+                "image_url": "https://m.media-amazon.com/images/I/81pNhzPOjaL._AC_SL1500_.jpg"
+              },
+              {
+                "id": 2,
+                "name": "Pruning Shears",
+                "type": "Cutting",
+                "description": "Used for cutting and trimming plants.",
+                "price": 949.99,
+                "image_url": "https://m.media-amazon.com/images/I/61LmOrjuiaL._AC_SL1500_.jpg"
+              },
+              {
+                "id": 3,
+                "name": "Garden Hoe",
+                "type": "Digging",
+                "description": "Used for weeding and cultivating soil.",
+                "price": 799.99,
+                "image_url": "https://m.media-amazon.com/images/I/51HcPH-TrdL._AC_SL1500_.jpg"
+              },
+              {
+                "id": 4,
+                "name": "Rake",
+                "type": "Cleaning",
+                "description": "Used for gathering leaves and debris.",
+                "price": 699.99,
+                "image_url": "https://m.media-amazon.com/images/I/71j-b4CxqUL._AC_SL1500_.jpg"
+              },
+              {
+                "id": 5,
+                "name": "Hand Trowel",
+                "type": "Digging",
+                "description": "Used for small digging tasks.",
+                "price": 399.99,
+                "image_url": "https://m.media-amazon.com/images/I/61IGyh99b5L._AC_SL1500_.jpg"
+              },
+              {
+                "id": 6,
+                "name": "Weeder",
+                "type": "Weeding",
+                "description": "Used for removing weeds.",
+                "price": 349.99,
+                "image_url": "https://m.media-amazon.com/images/I/716y9oA+IhL._AC_SL1500_.jpg"
+              },
+              {
+                "id": 7,
+                "name": "Garden Fork",
+                "type": "Digging",
+                "description": "Used for loosening, lifting and turning over soil.",
+                "price": 999.99,
+                "image_url": "https://example.com/images/garden_fork.jpg"
+              },
+              {
+                "id": 8,
+                "name": "Cultivator",
+                "type": "Digging",
+                "description": "Used for loosening soil and removing weeds.",
+                "price": 449.99,
+                "image_url": "https://example.com/images/cultivator.jpg"
+              },
+              {
+                "id": 9,
+                "name": "Hand Pruners",
+                "type": "Cutting",
+                "description": "Used for cutting small branches.",
+                "price": 649.99,
+                "image_url": "https://example.com/images/hand_pruners.jpg"
+              },
+              {
+                "id": 10,
+                "name": "Transplanter",
+                "type": "Digging",
+                "description": "Used for transplanting small plants.",
+                "price": 499.99,
+                "image_url": "https://example.com/images/transplanter.jpg"
+              },
+              {
+                "id": 11,
+                "name": "Watering Can",
+                "type": "Watering",
+                "description": "Used for watering plants.",
+                "price": 299.99,
+                "image_url": "https://example.com/images/watering_can.jpg"
+              },
+              {
+                "id": 12,
+                "name": "Sprayer",
+                "type": "Watering",
+                "description": "Used for spraying water or pesticides.",
+                "price": 599.99,
+                "image_url": "https://example.com/images/sprayer.jpg"
+              },
+              {
+                "id": 13,
+                "name": "Garden Scissors",
+                "type": "Cutting",
+                "description": "Used for cutting and trimming plants.",
+                "price": 249.99,
+                "image_url": "https://example.com/images/garden_scissors.jpg"
+              },
+              {
+                "id": 14,
+                "name": "Plant Labels",
+                "type": "Accessory",
+                "description": "Used for labeling plants.",
+                "price": 199.99,
+                "image_url": "https://example.com/images/plant_labels.jpg"
+              },
+              {
+                "id": 15,
+                "name": "Garden Gloves",
+                "type": "Accessory",
+                "description": "Used for protecting hands while gardening.",
+                "price": 349.99,
+                "image_url": "https://example.com/images/garden_gloves.jpg"
+              },
+              {
+                "id": 16,
+                "name": "Soil Tester",
+                "type": "Testing",
+                "description": "Used for testing soil pH and moisture.",
+                "price": 799.99,
+                "image_url": "https://example.com/images/soil_tester.jpg"
+              },
+              {
+                "id": 17,
+                "name": "Garden Kneeler",
+                "type": "Accessory",
+                "description": "Used for comfort while kneeling during gardening.",
+                "price": 899.99,
+                "image_url": "https://example.com/images/garden_kneeler.jpg"
+              },
+              {
+                "id": 18,
+                "name": "Wheelbarrow",
+                "type": "Transport",
+                "description": "Used for transporting soil and plants.",
+                "price": 2499.99,
+                "image_url": "https://example.com/images/wheelbarrow.jpg"
+              },
+              {
+                "id": 19,
+                "name": "Garden Twine",
+                "type": "Accessory",
+                "description": "Used for tying plants.",
+                "price": 199.99,
+                "image_url": "https://example.com/images/garden_twine.jpg"
+              },
+              {
+                "id": 20,
+                "name": "Plant Stakes",
+                "type": "Support",
+                "description": "Used for supporting plants.",
+                "price": 299.99,
+                "image_url": "https://example.com/images/plant_stakes.jpg"
+              },
+              {
+                "id": 21,
+                "name": "Garden Apron",
+                "type": "Accessory",
+                "description": "Used for protecting clothes while gardening.",
+                "price": 499.99,
+                "image_url": "https://example.com/images/garden_apron.jpg"
+              },
+              {
+                "id": 22,
+                "name": "Garden Kneepads",
+                "type": "Accessory",
+                "description": "Used for protecting knees while gardening.",
+                "price": 299.99,
+                "image_url": "https://example.com/images/garden_kneepads.jpg"
+              },
+              {
+                "id": 23,
+                "name": "Garden Cart",
+                "type": "Transport",
+                "description": "Used for transporting tools and plants.",
+                "price": 3999.99,
+                "image_url": "https://example.com/images/garden_cart.jpg"
+              },
+              {
+                "id": 24,
+                "name": "Garden Rake",
+                "type": "Cleaning",
+                "description": "Used for raking leaves and debris.",
+                "price": 699.99,
+                "image_url": "https://example.com/images/garden_rake.jpg"
+              },
+              {
+                "id": 25,
+                "name": "Pruning Saw",
+                "type": "Cutting",
+                "description": "Used for cutting thick branches.",
+                "price": 799.99,
+                "image_url": "https://example.com/images/pruning_saw.jpg"
+              },
+              {
+                "id": 26,
+                "name": "Garden Spade",
+                "type": "Digging",
+                "description": "Used for digging and transplanting.",
+                "price": 899.99,
+                "image_url": "https://example.com/images/garden_spade.jpg"
+              },
+              {
+                "id": 27,
+                "name": "Garden Fork",
+                "type": "Digging",
+                "description": "Used for turning and loosening soil.",
+                "price": 999.99,
+                "image_url": "https://example.com/images/garden_fork.jpg"
+              },
+              {
+                "id": 28,
+                "name": "Garden Hoe",
+                "type": "Digging",
+                "description": "Used for digging and cultivating soil.",
+                "price": 799.99,
+                "image_url": "https://example.com/images/garden_hoe.jpg"
+              },
+              {
+                "id": 29,
+                "name": "Gardening Gloves",
+                "type": "Protection",
+                "description": "Used for protecting hands while gardening.",
+                "price": 349.99,
+                "image_url": "https://example.com/images/gardening_gloves.jpg"
+              },
+              {
+                "id": 30,
+                "name": "Hand Weeder",
+                "type": "Weeding",
+                "description": "Used for removing weeds.",
+                "price": 249.99,
+                "image_url": "https://example.com/images/hand_weeder.jpg"
+              }
+            ]
+    }
+}
